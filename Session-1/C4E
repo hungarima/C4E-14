@@ -1,0 +1,34 @@
+19/11/2017
+Day 1 - Lecture:
+
+A. Introduction:
+1. Goals:
+ - Programming fundamentals: knowledge and skills.
+ - Learning skills:
+   + Textbook reading
+   + Search
+   + Code sample reading
+
+2. Programming Language:
+ - Python:
+    + Easy to start, learn
+    + Java for enterprise (fit for all -> complicated)
+    + Django, Pandas, Skit-learn -> Framework for data-analyzing, AI.
+ - HTML, CSS, Javascript
+
+3. Learning Path:
+ - Basic ( 4-5 sessions ): fundamentals
+ - Lab ( 2 sessions ): applying knowledge for game, database.
+ - Web ( 8 sessions )
+ - Projects: Team (2 weeks) -> Hackathon.
+
+B. Let's go
+
+4. Command Line:
+ - create new folder: mkdir
+ - Lên một thư mục: cd ..
+
+5. Python Syntax
+ - Input: Require user type something. Stop program till user react ( Blocking )
+ - "=" means "assign"
+ - operand = variable 
