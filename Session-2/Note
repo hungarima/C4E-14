@@ -1,0 +1,8 @@
+
+1. For loop
+- i is iterator
+- for i in range(start, stop, step):
+
+2. Scope:
+- active range of variables
+- 
