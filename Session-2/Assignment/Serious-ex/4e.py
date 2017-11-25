@@ -6,8 +6,8 @@ for u in range(10):
             else:
                 print("x", end='')
     else:
-        for i in range(10):
-            if (i+1) % 2 == 0:
+        for z in range(10):
+            if (z+1) % 2 == 0:
                 print('x', end='')
             else:
                 print("*", end='')

@@ -1,23 +1,20 @@
 from turtle import *
 
-for i in range(16):
-    forward(50)
-    if i % 3 == 0:
-        left(60)
+color("red")
 
+for i in range(4):
+    for u in range(2):
+        right(30)
+        forward(50)
+        left(60)
+        forward(50)
+        left(150)
+    left(90)
 
 
 mainloop()
 
-# right(30)
-# forward(50)
-# left(60)
-# forward(50)
-# left(120)
-# forward(50)
-# left(60)
-# forward(50)
-# right(120)
+
     # right(30)
     # forward(50)
     # left(60)
