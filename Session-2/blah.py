@@ -1,6 +1,10 @@
-if x < 0:
-    print("The negative number ", x, " is not valid here.")
-    x = 42
-    print("I’ve decided to use the number 42 instead.")
+m = 5
+n = 6
 
-print("The square root of ", x, "is", math.sqrt(x))
+for j in range(m):
+    for i in range(n):
+        if (i+j) % 2 == 0:
+            print("*", end="")
+        else:
+            print("x", end="")
+    print()
