@@ -1,0 +1,16 @@
+Data scraping: Used in data industry
+- HTML:
+- Scraping library: Beautiful Soup
+1. Download page
+2. Chọn vùng quan tâm
+3. Phân tích vùng đặc biệt
+- find (tìm 1)
+- find_all
+- li.h4
+- a['href']
+- a.string
+4. Scraping: Từ cái to -> Cái nhỏ hơn.
+
+* HTML: Fill all html_content
+  HTML + Ajax: Load tất cả trừ part có Ajax
+  Cần có tool: Selenium.
